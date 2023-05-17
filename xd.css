@@ -1,0 +1,121 @@
+.main{
+    background-color:#1c212d;
+    height: 100vh;
+}
+.fa-house{
+    color: rgb(27, 95, 72);
+    
+    
+}
+.select-box{
+    color: #fff;
+    background-color:#1c212d;
+    
+}
+.heading{
+    color:black;
+    ;
+    padding-top: 70px;
+    padding-left: 25px;
+    font-size: small;
+    overflow: auto;
+}
+.cond{
+    padding-top: 20px ;
+    padding-left: 25px;
+    color:#444444;
+    overflow: auto;
+}
+
+.photo{
+    width: 400px;
+    height: 400px;
+
+    
+    
+}
+.slect{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    
+    
+}
+
+.form-select{
+    color: #fff;
+}
+
+
+.custom-select {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .custom-select select {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .custom-select .select-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+.form-selectt{
+    color: black;
+    font-style:normal;
+    font-size: medium;
+    font-weight:bolder;
+    text-decoration-thickness: 30px;
+    margin-top: 1px;
+    margin-bottom: 40px;
+    margin: 50px;
+}  
+.boxx{
+    width: 927px;
+    height: 220px;
+    background-color:  whitesmoke;
+    margin: 50px;
+    box-shadow: #fff;
+    border: whitesmoke;
+    border-style:inherit;
+    color:#444444;
+    font-style: oblique;
+}
+.prof{
+    width: 39px;
+    height: 36px;
+    margin-right: 10px;
+}
+.icon{
+    text-align: end;
+}
+.fa-solid {
+    font-weight: 900;
+    padding: 13px;
+}
+.ln{
+   
+    border-bottom: 1px solid #31383f;
+    MARGIN-TOP: 60vh;
+
+}
+.fa-light{
+    background-color: #fff;
+}
+i.fas {
+    color: #fff;
+    font-size: 25px;
+    padding-left: 261px;
+    padding-top: 24px;
+}
+
+
+  
+  
